@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.f205f19f.css",
+    "main.js": "/my-app/static/js/main.3d8bd2a8.js",
+    "static/js/787.cda612ba.chunk.js": "/my-app/static/js/787.cda612ba.chunk.js",
+    "static/media/Bg.png": "/my-app/static/media/Bg.2b1389aeb5d3011421d9.png",
+    "static/media/Cour-Cert User Interface Background.png": "/my-app/static/media/Cour-Cert User Interface Background.2b1389aeb5d3011421d9.png",
+    "static/media/Content1.png": "/my-app/static/media/Content1.a14bd36062cf6552c140.png",
+    "static/media/Content3.png": "/my-app/static/media/Content3.13f5cf146b3e123d283d.png",
+    "static/media/ContactBg.png": "/my-app/static/media/ContactBg.53f51da87263b445d66b.png",
+    "static/media/MoreDetailsBg.png": "/my-app/static/media/MoreDetailsBg.8ab89580312493cdbedf.png",
+    "static/media/AboutBg.png": "/my-app/static/media/AboutBg.0c256fdd7d81ddb90ce7.png",
+    "static/media/Content2.png": "/my-app/static/media/Content2.bf5c4de1086858cd2e9d.png",
+    "static/media/ServiceBg.png": "/my-app/static/media/ServiceBg.4006cfd07cfce37b4bbc.png",
+    "static/media/Logo.png": "/my-app/static/media/Logo.a21b652e52a9370d6cfc.png",
+    "static/media/content-delivery.svg": "/my-app/static/media/content-delivery.c4652669c6c74f3c94bde8f93c1f3d7b.svg",
+    "static/media/interactive.svg": "/my-app/static/media/interactive.adb59046012215f6f4eeca96176fb8a4.svg",
+    "index.html": "/my-app/index.html",
+    "static/media/tasks.svg": "/my-app/static/media/tasks.a08c2d91cc563c16b4b1e57f44063865.svg",
+    "main.f205f19f.css.map": "/my-app/static/css/main.f205f19f.css.map",
+    "main.3d8bd2a8.js.map": "/my-app/static/js/main.3d8bd2a8.js.map",
+    "787.cda612ba.chunk.js.map": "/my-app/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f205f19f.css",
+    "static/js/main.3d8bd2a8.js"
+  ]
+}
